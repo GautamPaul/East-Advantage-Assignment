@@ -1,0 +1,25 @@
+{
+    "dep1": {
+        "name": "dep1",
+        "employees": [
+            {
+                "name": "emp1",
+                "id": "101",
+                "title": "tit1",
+                "department": "dep1"
+            },
+            {
+                "name": "emp2",
+                "id": "102",
+                "title": "tit2",
+                "department": "dep1"
+            },
+            {
+                "name": "emp3",
+                "id": "103",
+                "title": "tit3",
+                "department": "dep1"
+            }
+        ]
+    }
+}
